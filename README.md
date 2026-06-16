@@ -1,2 +1,12 @@
-# math-adventure-grade2
-Second-grade math learning mobile web app
+# 数学小侦探
+
+面向二年级小朋友的手机网页数学小游戏。
+
+## 内容
+
+- 进位退位小侦探：10 道加减法题，包含三数字加减法
+- 时间小管家：10 道时间认识题，包含表盘图
+
+## 本地打开
+
+使用静态服务器托管本目录，然后打开 `index.html`。
